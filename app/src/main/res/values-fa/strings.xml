@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="action_settings">تنظیمات</string>
+    <string name="app_name">TbGitTest</string>
+    <string name="hello_world">سلام به همه!</string>
+    <string name="how_are_you">چطوری عباس؟</string>
+
+</resources>
